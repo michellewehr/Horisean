@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
 }
+
 body {
   background-color: #d9dcd6;
 }
@@ -10,6 +11,7 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
+
 p {
   font-size: 16px;
 }
@@ -51,6 +53,7 @@ header nav ul li {
   background-size: cover;
   background-position: center;
 }
+
 /*Main-content*/
 .content {
   width: 75%;
@@ -104,6 +107,7 @@ header nav ul li {
   margin: 10px auto;
   max-width: 150px;
 }
+
 /*Footer*/
 parenthesized text,
 footer {
